@@ -1,0 +1,11 @@
+﻿<svg width="128" height="88" viewBox="0 0 128 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">광림전산 KL 로고</title>
+  <desc id="desc">파란색 라운드 사각형 안에 기하학적인 K와 L 문자를 조합한 광림전산 로고</desc>
+  <rect x="10" y="10" width="108" height="68" rx="18" fill="#0B2D62"/>
+  <rect x="14" y="14" width="100" height="60" rx="14" fill="#123F7A"/>
+  <path d="M24 22H62C78 22 91 35 91 51V66H76V52C76 44 69 37 61 37H24V22Z" fill="#2B7FD3"/>
+  <path d="M34 29H45V58H34V29Z" fill="white"/>
+  <path d="M48 43L64 29H78L59 45L80 58H64L48 48V43Z" fill="white"/>
+  <path d="M83 29H94V49H108V58H83V29Z" fill="white"/>
+  <rect x="20" y="18" width="88" height="1.5" rx="0.75" fill="white" fill-opacity="0.24"/>
+</svg>
